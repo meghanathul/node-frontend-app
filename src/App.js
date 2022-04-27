@@ -1,5 +1,5 @@
-import axios from 'axios'
-import React, { useEffect,useState } from 'react'
+
+import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Bollywood from './components/Bollywood'
 import Fitness from './components/Fitness'
